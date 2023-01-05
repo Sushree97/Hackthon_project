@@ -4,6 +4,7 @@ Every household has a box of general medicines/specific medicines that are prese
 Question: Leverage technology to ensure that we have an easy mechanism to identify which of the medicines are still okay for consumption
 
 #Detailed_problem
+
 Scenario #1 The person forgets the expiry date and expired medicines are still present in the medicine box and can't be known to be restocked
 
 Scenario #2 The person forgets to register the expiry date while the time of buying totally. Therefore the medicine can't be deemed valid at any point
