@@ -1,4 +1,4 @@
-**problem**
+**Problem**
 
 Every household has a box of general medicines/specific medicines that are present for our consumption. While the medicine is purchased, we make it a point to check the date of expiry, however over a period of time we ignore to validate if the medicines available in our house are still under the period of expiry. 
 
