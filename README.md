@@ -6,11 +6,11 @@ Every household has a box of general medicines/specific medicines that are prese
 
 **Detailed_problem**
 
-**Scenario #1 The person forgets the expiry date and expired medicines are still present in the medicine box and can't be known to be restocked
+**Scenario #1 The person forgets the expiry date and expired medicines are still present in the medicine box and can't be known to be restocked**
 
-**Scenario #2 The person forgets to register the expiry date while the time of buying totally. Therefore the medicine can't be deemed valid at any point
+**Scenario #2 The person forgets to register the expiry date while the time of buying totally. Therefore the medicine can't be deemed valid at any point**
 
-**Scenario #3 The person searches for a medicine from the box but is unsure of the validity of the medicine even in urgency
+**Scenario #3 The person searches for a medicine from the box but is unsure of the validity of the medicine even in urgency**
 
 The problem discussed here is a trivial yet simple problem that seemingly is a regular occurrence amongst people. The problem states that while buying medicines people generally look at the expiry dates of the medicines, however over some time, we do not realize if the medicines we have purchased have expired and should be replaced with a new stock of the same. Further, over time, we do not know which medicines are okay for consumption since the expiry dates are forgotten by the people, which could result in a very worse situation
 
