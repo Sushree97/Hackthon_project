@@ -17,3 +17,11 @@ The problem discussed here is a trivial yet simple problem that seemingly is a r
 **SOLUTION** 
 
 The Solution to the problem can be solved through a medicine recognizing and storing app which would be built on fundamental Image recognition and NLP processing technology. The app would firstly scan the medicines through a picture while purchasing the medicines and further process the image while passing it through an NLP parser to make sure all the details of the medicine are stored in the user's profile along with the corresponding image. After which it would be easier to track the medicine and set reminders for restocking as well as throwing out of expired medicines.
+
+**Future Improvements**
+The App leaves a good base for further personalization such as:
+1.Creating a database for the user from previous meds and recommeding alternatives
+2.Restocking the meds automactically from online pharmacies
+3.Creating a cutom medicine chart with reminders for the users based on prescription
+4.Buying the medicines directly for the user from a prescription notice only
+
